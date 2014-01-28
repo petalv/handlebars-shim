@@ -1,0 +1,21 @@
+{
+  "name": "handlebars-shim",
+  "version": "0.0.1",
+  "authors": [
+    "Alexander Vassbotn Røyne-Helgesen <alexander@phun-ky.net>"
+  ],
+  "description": "A shim for minified handlebars version 1.0.0",
+  "main": "handlebars.min.js",
+  "keywords": [
+    "handlebars",
+    "shim"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
